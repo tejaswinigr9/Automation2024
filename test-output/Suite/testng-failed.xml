@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
+  <test thread-count="5" name="ChromeTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.Account_Registration"/>
+    </classes>
+  </test> <!-- ChromeTest -->
+  <test name="edgeTest">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.Account_Registration"/>
+    </classes>
+  </test> <!-- edgeTest -->
+  <test name="firefoxTest">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.Account_Registration"/>
+    </classes>
+  </test> <!-- firefoxTest -->
+  <test parallel="none" name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.Account_Registration">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="registration"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.Account_Registration -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test parallel="none" name="edgeTest(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.Account_Registration">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="registration"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.Account_Registration -->
+    </classes>
+  </test> <!-- edgeTest(failed) -->
+  <test parallel="none" name="firefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.Account_Registration">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="openBrowser"/>
+          <include name="registration"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.Account_Registration -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

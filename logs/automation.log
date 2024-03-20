@@ -1,0 +1,52 @@
+16:43:15.265 [main] INFO  testCases.Account_Registration - ***starting registration***
+16:43:15.643 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+16:43:18.412 [main] INFO  testCases.Account_Registration - ***clicking on register***
+16:43:22.678 [main] INFO  testCases.Account_Registration - ***entering all fields***
+05:40:40.340 [main] INFO  testCases.Account_Registration - ***starting registration***
+05:40:40.505 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+05:40:41.040 [main] INFO  testCases.Account_Registration - ***clicking on register***
+05:40:45.464 [main] INFO  testCases.Account_Registration - ***entering all fields***
+06:14:04.793 [main] INFO  testCases.Account_Registration - ***starting registration***
+06:14:04.960 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+06:14:08.264 [main] INFO  testCases.Account_Registration - ***clicking on register***
+06:14:12.477 [main] INFO  testCases.Account_Registration - ***entering all fields***
+06:16:26.580 [main] INFO  testCases.Account_Registration - ***starting registration***
+06:16:26.581 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+06:16:41.181 [main] INFO  testCases.Account_Registration - ***clicking on register***
+06:16:48.119 [main] INFO  testCases.Account_Registration - ***entering all fields***
+06:20:19.099 [main] INFO  testCases.Account_Registration - ***starting registration***
+06:20:19.100 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+06:20:23.265 [main] INFO  testCases.Account_Registration - ***clicking on register***
+06:20:27.256 [main] INFO  testCases.Account_Registration - ***entering all fields***
+17:18:57.704 [main] INFO  testCases.Account_Registration - ***starting registration***
+17:18:57.923 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+17:18:59.236 [main] INFO  testCases.Account_Registration - ***clicking on register***
+17:19:03.086 [main] INFO  testCases.Account_Registration - ***entering all fields***
+17:21:21.024 [main] INFO  testCases.Account_Registration - ***starting registration***
+17:21:21.025 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+17:21:36.254 [main] INFO  testCases.Account_Registration - ***clicking on register***
+17:21:52.417 [main] INFO  testCases.Account_Registration - ***entering all fields***
+17:24:27.798 [main] INFO  testCases.Account_Registration - ***starting registration***
+17:24:27.798 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+17:24:38.096 [main] INFO  testCases.Account_Registration - ***clicking on register***
+17:24:44.149 [main] INFO  testCases.Account_Registration - ***entering all fields***
+19:36:08.090 [main] INFO  testCases.Account_Registration - ***starting registration***
+19:36:08.193 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+19:36:10.761 [main] INFO  testCases.Account_Registration - ***clicking on register***
+19:36:15.106 [main] INFO  testCases.Account_Registration - ***entering all fields***
+19:46:27.730 [main] INFO  testCases.Account_Registration - ***starting registration***
+19:46:28.456 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+19:46:29.430 [main] INFO  testCases.Account_Registration - ***clicking on register***
+19:46:32.460 [main] INFO  testCases.Account_Registration - ***entering all fields***
+14:03:19.626 [main] INFO  testCases.Account_Registration - ***starting registration***
+14:03:21.556 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+14:03:27.736 [main] INFO  testCases.Account_Registration - ***clicking on register***
+14:03:38.947 [main] INFO  testCases.Account_Registration - ***entering all fields***
+14:05:34.697 [main] INFO  testCases.Account_Registration - ***starting registration***
+14:05:34.698 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+14:05:41.195 [main] INFO  testCases.Account_Registration - ***clicking on register***
+14:05:44.934 [main] INFO  testCases.Account_Registration - ***entering all fields***
+16:52:31.624 [main] INFO  testCases.Account_Registration - ***starting registration***
+16:52:31.836 [main] INFO  testCases.Account_Registration - ***clicking on my account menu***
+16:52:34.625 [main] INFO  testCases.Account_Registration - ***clicking on register***
+16:52:44.056 [main] INFO  testCases.Account_Registration - ***entering all fields***
